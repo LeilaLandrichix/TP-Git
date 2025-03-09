@@ -1,1 +1,3 @@
-print("Hello, TP Git!")
+name = input("Enter your name: ")
+message = f"Hello, {name}! Welcome to TP Git! 🚀"
+print(message)
